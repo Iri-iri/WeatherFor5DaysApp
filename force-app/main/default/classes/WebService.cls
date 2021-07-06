@@ -1,3 +1,4 @@
+
 public with sharing class WService {
 
     public static void main(String cityId) {
